@@ -1,4 +1,4 @@
-package java0929;
+package java0929_·´Éä_×¢½â;
 
 import info.mysub_info.myr;
 
