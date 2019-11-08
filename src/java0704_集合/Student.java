@@ -1,4 +1,4 @@
-package java0704;
+package java0704_¼¯ºÏ;
 
 public class Student {
 	private String name;

@@ -1,4 +1,4 @@
-package java0704;
+package java0704_¼¯ºÏ;
 
 public class Target {
 	private String value;
